@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a legaltech project a new type of Contract Management System (CMS)
+- 🌱 I’m currently learning AI for legal documents
+- 👯 I’m looking to collaborate on legaltech project 
+- 🤔 I’m looking for help with review my software but it is not ready yet
+- 💬 Ask me about anything
+- 📫 How to reach me: miguel@intuizion.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: Intuizion has bias flaws
+
 <!--
 **Intuizion/Intuizion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
