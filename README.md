@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with review my software but it is not ready yet
 - 💬 Ask me about anything
 - 📫 How to reach me: miguel@intuizion.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Intuizion has bias flaws
 
 <!--
