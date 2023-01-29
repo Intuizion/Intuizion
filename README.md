@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a legaltech project a new type of Contract Management System (CMS)
+- 😄 I also have a side-project an open source web app to manage Sport Clubs
 - 🌱 I’m currently learning AI for legal documents
+- 🤔 I'm also learning to code plugins for WordPress 
 - 👯 I’m looking to collaborate on legaltech project 
 - 🤔 I’m looking for help with review my software but it is not ready yet
 - 💬 Ask me about anything
